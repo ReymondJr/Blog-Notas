@@ -1,0 +1,32 @@
+.todo{
+    padding: 10px;
+    margin: 20px;
+}
+.Blog, h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+}
+.Blog{
+    -webkit-box-shadow: 65px 23px 47px -14px rgba(191,61,191,1);
+    -moz-box-shadow: 65px 23px 47px -14px rgba(191,61,191,1);
+    box-shadow: 65px 23px 47px -14px rgba(191,61,191,1)
+}
+div{
+    text-align: center;
+    background-image: url(https://previews.123rf.com/images/lisala/lisala1511/lisala151100103/47879453-gr%C3%A1fico-de-fondo-con-c%C3%ADrculos-de-colores-sobre-una-base-neutra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .fullwidth{
+        width: 50%;
+}
+
+  .agregar{
+    padding: 23px;
+}
+input{
+    width: 19px
+}
+  
