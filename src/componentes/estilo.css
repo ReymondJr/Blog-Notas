@@ -15,7 +15,7 @@
 }
 div{
     text-align: center;
-    background-image: url(https://previews.123rf.com/images/lisala/lisala1511/lisala151100103/47879453-gr%C3%A1fico-de-fondo-con-c%C3%ADrculos-de-colores-sobre-una-base-neutra.jpg);
+    background-image: url(https://previews.123rf.com/images/ygrek/ygrek1103/ygrek110300030/9103048-cosecha-de-fondo-con-capas-de-colores-neutros-y-bordes-externos-m%C3%A1s-oscuros-de-color.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -27,6 +27,18 @@ div{
     padding: 23px;
 }
 input{
-    width: 19px;
+    width: 50px;
+    margin: 10px;
+}
+input:hover{
+    cursor: pointer;
+}
+li{
+    font-size: 19px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+    margin-bottom: 12px;
+    padding: 0 0 0 23px;
 }
   
